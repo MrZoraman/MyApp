@@ -1,0 +1,8 @@
+dtoplak.vscode-glsllint
+ms-dotnettools.csdevkit
+ms-dotnettools.csharp
+ms-dotnettools.vscode-dotnet-runtime
+ms-python.debugpy
+ms-python.python
+ms-python.vscode-pylance
+slevesque.shader
